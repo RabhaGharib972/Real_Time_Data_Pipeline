@@ -33,7 +33,7 @@ RandomUser API
 
 📌 **Add your pipeline drawing here**
 
-![Pipeline Architecture](screenshots/screenpipeline-architecture.png)
+![Pipeline Architecture](screenshots/pipeline-architecture.png)
 
 > This diagram illustrates the full data flow from ingestion to persistence.
 
